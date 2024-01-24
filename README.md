@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://fluid-developer.github.io/logo.png" width="500"/>
+</div>
+<div
+  <img src="https://img.shields.io/badge/Fluid_Developer-blue"/>
+</div>
 <!--
 **fluid-developer/fluid-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
