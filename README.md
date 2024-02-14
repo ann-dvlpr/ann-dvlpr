@@ -2,7 +2,8 @@
   <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo.png?raw=true" width="500"/>
 </div>
 <div align="center">
-  <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/> </a>
+  <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/></a>
+  <a href="https://fluid-developer.github.io/social.html"><img src="https://custom-icon-badges.demolab.com/badge/Social_Media-red?style=flat-square&logo=at-sign"/></a>
 </div>
 <div id="lnags" align="center" down>
   <h3>Languages<br></h3>
