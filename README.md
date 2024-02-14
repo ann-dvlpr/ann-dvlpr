@@ -2,7 +2,7 @@
   <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo.png?raw=true" width="500"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Fluid_Developer-blue"/>
+  <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/> </a>
 </div>
 <div id="lnags" align="center" down>
   <h3>Languages<br></h3>
