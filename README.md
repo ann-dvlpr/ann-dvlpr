@@ -31,7 +31,17 @@
   </a>
 </div>
 
-
+<div id="projects" align="center">
+    <h3>Projects</h3><br>
+    <a href="https://github.com/fluid-developer/Patcher-You"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/PatcherU-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/FluidClumsy"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FluidClumsy-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/FPkg"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FPkg-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/FPassword-Manager"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FPM-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/solver"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/Solver-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/LiquidOS"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/LiquidOS-bundle"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+  <a href="https://github.com/fluid-developer/FFramework"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FFramework-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+</div>
 
 
 
