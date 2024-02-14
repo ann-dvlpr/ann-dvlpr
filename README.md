@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://fluid-developer.github.io/logo.png" width="500"/>
+  <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo.png?raw=true" width="500"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Fluid_Developer-blue"/>
