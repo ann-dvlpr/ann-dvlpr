@@ -24,10 +24,10 @@
 <div id="stats" align="center">
   <h3>Stats</h3>
   <a href="https://github.com/fluid-developer">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=fluid-developer&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=fluid-developer&theme=react">
   </a>
   <a href="https://github.com/fluid-developer">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluid-developer&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluid-developer&layout=compact&theme=react">
   </a>
 </div>
 
