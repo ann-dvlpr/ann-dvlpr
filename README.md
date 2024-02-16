@@ -5,7 +5,7 @@
   <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/></a>
   <a href="https://fluid-developer.github.io/social.html"><img src="https://custom-icon-badges.demolab.com/badge/Social_Media-red?style=flat-square&logo=at-sign"/></a>
 </div>
-<div id="lnags" align="center" down>
+<div id="langs" align="center" down>
   <h3>Languages<br></h3>
   <a href="https://html5.org/"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/HTML5-logo.png?raw=true" alt="html" height="60"></a>&ensp;
   <a href="https://html5.org/"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/CSS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
