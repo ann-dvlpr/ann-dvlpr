@@ -42,9 +42,9 @@
     <a href="https://github.com/fluid-developer/LiquidOS"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
     <a href="https://github.com/fluid-developer/LiquidOS-bundle"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
   <a href="https://github.com/fluid-developer/FFramework"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FFramework-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+<a href="https://github.com/fluid-developer/AppLauncher"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/AppLauncher-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+		<a href="https://github.com/fluid-developer/DosBoxLauncher"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/DBL-logo.png?raw=true" alt="html" height="60"></a>&ensp;
 </div>
-
-
 
 
 <!--
