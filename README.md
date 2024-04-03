@@ -1,7 +1,11 @@
+<div id="welcome" align="center">
+  <h1>Welcome! My name is Fluid, or Fluid-developer.</h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo.png?raw=true" width="500"/>
 </div>
-<div align="center">
+<div id="fast-link" align="center">
   <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/></a>
   <a href="https://fluid-developer.github.io/social.html"><img src="https://custom-icon-badges.demolab.com/badge/Social_Media-red?style=flat-square&logo=at-sign"/></a>
 </div>
@@ -24,12 +28,8 @@
 
 <div id="stats" align="center">
   <h3>Stats</h3>
-  <a href="https://github.com/fluid-developer">
-    <img src="https://github-readme-stats.vercel.app/api?username=fluid-developer&theme=react">
-  </a>
-  <a href="https://github.com/fluid-developer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluid-developer&layout=compact&theme=react">
-  </a>
+  <a href="https://github.com/fluid-developer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluid-developer&layout=compact&theme=react"></a><br>
+  <a href="https://github.com/fluid-developer"><img src="https://github-readme-stats.vercel.app/api?username=fluid-developer&theme=react"></a>
 </div>
 
 <div id="projects" align="center">
@@ -41,9 +41,10 @@
     <a href="https://github.com/fluid-developer/solver"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/Solver-logo.png?raw=true" alt="html" height="60"></a>&ensp;
     <a href="https://github.com/fluid-developer/LiquidOS"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
     <a href="https://github.com/fluid-developer/LiquidOS-bundle"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
-  <a href="https://github.com/fluid-developer/FFramework"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FFramework-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/FFramework"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/FFramework-logo.png?raw=true" alt="html" height="60"></a>&ensp;
 <a href="https://github.com/fluid-developer/AppLauncher"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/AppLauncher-logo.png?raw=true" alt="html" height="60"></a>&ensp;
-		<a href="https://github.com/fluid-developer/DosBoxLauncher"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/DBL-logo.png?raw=true" alt="html" height="60"></a>&ensp;
+    <a href="https://github.com/fluid-developer/DosBoxLauncher"><img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logos/DBL-logo.png?raw=true" alt="html" height="60"></a>&ensp;<br>
+    <h2>Note that FFramework isn't yet done, or even on GitHub, or any other platform!</h2>
 </div>
 
 
