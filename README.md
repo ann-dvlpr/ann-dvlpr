@@ -43,7 +43,7 @@
     <a href="https://github.com/ann-dvlpr/LiquidOS-bundle"><img src="https://github.com/ann-dvlpr/ann-dvlpr.github.io/blob/main/logos/LiquidOS-logo.png?raw=true" alt="html" height="60"></a>&ensp;
     <a href="https://github.com/ann-dvlpr/FFramework"><img src="https://github.com/ann-dvlpr/ann-dvlpr.github.io/blob/main/logos/FFramework-logo.png?raw=true" alt="html" height="60"></a>&ensp;
 <a href="https://github.com/ann-dvlpr/AppLauncher"><img src="https://github.com/ann-dvlpr/ann-dvlpr.github.io/blob/main/logos/AppLauncher-logo.png?raw=true" alt="html" height="60"></a>&ensp;
-    <a href="https://github.com/ann-dvlpr/DosBoxLauncher"><img src="https://github.com/ann-dvlpr.github.io/blob/main/logos/DBL-logo.png?raw=true" alt="html" height="60"></a>&ensp;<br>
+    <a href="https://github.com/ann-dvlpr/DosBoxLauncher"><img src="https://github.com/ann-dvlpr/ann-dvlpr.github.io/blob/main/logos/DBL-logo.png?raw=true" alt="html" height="60"></a>&ensp;<br>
     <h2>Note that FFramework isn't yet done, or even on GitHub, or any other platform!</h2>
 </div>
 
