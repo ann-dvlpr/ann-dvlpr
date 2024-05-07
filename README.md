@@ -2,6 +2,10 @@
   <h1>Welcome! My name Ann, I am a Developer.</h1>
 </div>
 
+<h1>Read me, it's important</h1>
+Recent changes made it so, no more "fluid-developer", or, fluid at all. ALL my services are migrating to new name and that may take a while, if something doesnt load contact me on [telegram](https://t.me/true1ann) or discord (@ann.off)
+
+
 <div id="header" align="center">
   <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo-v2.png?raw=true" width="500"/>
 </div>
