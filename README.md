@@ -1,9 +1,9 @@
 <div id="welcome" align="center">
-  <h1>Welcome! My name is Fluid, or Fluid-developer.</h1>
+  <h1>Welcome! My name Ann, I am a Developer.</h1>
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo.png?raw=true" width="500"/>
+  <img src="https://github.com/fluid-developer/fluid-developer.github.io/blob/main/logo-v2.png?raw=true" width="500"/>
 </div>
 <div id="fast-link" align="center">
   <a href="https://fluid-developer.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Fluid_Developer-blue?style=flat-square&logo=globe"/></a>
